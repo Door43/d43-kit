@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kit:home|Door43 (kit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kit|d43-kit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kit/archive/master.zip|d43-kit.zip]]
+
+**Recent Changes**
+{{changes>ns = kit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kit|Ethnologue data]]
+
